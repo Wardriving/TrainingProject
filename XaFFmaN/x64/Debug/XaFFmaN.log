@@ -1,0 +1,5 @@
+﻿  XaFFmaN.cpp
+C:\Users\Shark\source\repos\XaFFmaN\XaFFmaN.cpp(107,23): error C2039: "is_leaf": не является членом "Node".
+C:\Users\Shark\source\repos\XaFFmaN\Header.h(8): message : см. объявление "Node"
+C:\Users\Shark\source\repos\XaFFmaN\XaFFmaN.cpp(187,21): warning C4244: инициализация: преобразование "__int64" в "uchar", возможна потеря данных
+C:\Users\Shark\source\repos\XaFFmaN\XaFFmaN.cpp(201,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
